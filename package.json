@@ -1,0 +1,14 @@
+{
+  "name": "c12-error",
+  "type": "module",
+  "scripts": {
+    "c12": "tsx ./c12.ts",
+    "c12:js": "node ./c12.js"
+  },
+  "dependencies": {
+    "c12": "^1.10.0",
+    "zod": "^3.22.4",
+    "typescript": "^5.4.2",
+    "tsx": "^4.7.1"
+  }
+}
